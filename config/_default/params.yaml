@@ -19,7 +19,7 @@ hugoblox:
     type: person # person | organization | local_business
     # Short tagline displayed on your site
     tagline: ""
-    description: "Pain research at INb - UNAM"
+    description: "Nociception & Dolor Lab"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
