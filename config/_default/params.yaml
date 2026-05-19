@@ -130,13 +130,13 @@ hugoblox:
     location:
       address:
         street: ""
-        city: ""
-        region: ""
-        postal_code: ""
-        country: ""
+        city: "Querétaro"
+        region: "Juriquilla"
+        postal_code: "76230"
+        country: "México"
       coordinates:
-        latitude: null
-        longitude: null
+        latitude: 20.7005619
+        longitude: -100.4454110
       phone: ""
     # AI/LLM crawler guidance (llms.txt)
     ai:
