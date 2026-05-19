@@ -19,18 +19,18 @@ bio: |
 
 affiliations:
   - name: INb - UNAM
-    url: hhttp://132.248.142.23/web_site/home_pages/129?locale=en
+    url: http://132.248.142.23/web_site/home_pages/129?locale=en
 
 links:
   - icon: at-symbol
     url: mailto:abimaelgh@comunidad.unam.mx
     label: E-mail Me
   - icon: brands/x
-    url: hhttps://x.com/AbimaelGH
+    url: https://x.com/AbimaelGH
   - icon: brands/github
     url: https://github.com/AbimaelGH
   - icon: brands/linkedin
-    url: hhttps://www.linkedin.com/in/abimael-gonzález-hernández-03b8239b/
+    url: https://www.linkedin.com/in/abimael-gonzález-hernández-03b8239b/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ILOz5w4AAAAJ&hl=en
   - icon: academicons/orcid
