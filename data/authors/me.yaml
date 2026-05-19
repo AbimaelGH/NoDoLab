@@ -44,7 +44,6 @@ interests:
 education:
   - degree: PhD Neuropharmacology
     institution: Cinvestav - IPN
-    start: 2007-09-01
     end: 2011-08-30
     summary: |
       Thesis on sensory prejunctional 5-HT1 receptor subtypes modulating CGRPergic transmission. Published 5 papers in European Journal of Pharmacology.
@@ -52,19 +51,16 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MSc Neuropharm
+  - degree: MSc 
     institution: Cinvestav - IPN
-    start: 2005-09-01
     end: 2007-08-30
-  - degree: BS Chemist
+  - degree: BSc Chemist
     institution: ENCB - IPN
-    start: 2000-08-01
     end: 2005-12-31
 
 experience:
   - role: Posdoctoral Researcher
     org: INb - UNAM
-    start: 2011-01-09
     end: 2016-01-31
     summary: |
       Leading research on electrophysiological aspects of endogenous ligands inducing antinociception.
