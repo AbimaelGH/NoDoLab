@@ -12,7 +12,6 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "NoDo Lab"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
@@ -20,7 +19,6 @@ hugoblox:
     type: person # person | organization | local_business
     # Short tagline displayed on your site
     tagline: ""
-    # Site meta description for search engines and social sharing
     description: "Pain research at INb - UNAM"
       Kit. Easily create your personal academic website."
     # Social accounts (used for meta tags like Twitter Cards)
