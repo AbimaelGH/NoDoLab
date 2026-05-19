@@ -40,7 +40,6 @@ interests:
   - Mechanisms of endogenous analgesia
   - Neuropharmacology of pain transmission
   - Sexual dimorphism in nociception
-  - Electrophysiology and behavioral experiments
 
 education:
   - degree: PhD Neuropharmacology
@@ -53,17 +52,17 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Neuropharmacology
+  - degree: MSc Neuropharm
     institution: Cinvestav - IPN
     start: 2005-09-01
     end: 2007-08-30
   - degree: BS Chemist
-    institution: Escuela Nacional de Ciencias Biológicas (ENCB - IPN)
+    institution: ENCB - IPN
     start: 2000-08-01
     end: 2005-12-31
 
 experience:
-  - role: Posdoctoral Research Scientist
+  - role: Posdoctoral Researcher
     org: INb - UNAM
     start: 2011-01-09
     end: 2016-01-31
