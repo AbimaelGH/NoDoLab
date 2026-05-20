@@ -2,7 +2,7 @@
 title: "Ultrastructural evidence for oxytocin and oxytocin receptors at the spinal dorsal horn: mechanism of nociception modulation"
 authors: [Martínez-Lorenzana G, Palma-Tirado L, Cifuentes-Diaz C, González-Hernández A, Condés-Lara M]
 date: "2021-11-01"
-doi: "10.1080/14737175.2021.1968835"
+doi: "10.1016/j.neuroscience.2021.09.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-17T05:25:58-06:00
@@ -40,7 +40,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: 'https://www.tandfonline.com/doi/abs/10.1080/14737175.2021.1968835'
+url_source: 'https://www.sciencedirect.com/science/article/pii/S0306452221004565'
 url_video:
 
 # Featured image
