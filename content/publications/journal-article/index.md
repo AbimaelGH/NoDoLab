@@ -1,69 +1,64 @@
 ---
-title: "An example journal article"
-authors:
-- me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+title: "Effect of some acute and prophylactic antimigraine drugs on the vasodepressor sensory CGRPergic outflow in pithed rats"
+authors: [Lozano-Cuenca J, González-Hernández A, Muñoz-Islas E, Sánchez-López A, Centurión D, Cobos-Puc LE, Villalón CM]
+date: "2009-01-01"
+doi: "10.1016/j.lfs.2008.11.008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: 2020-12-17T05:25:58-06:00
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Life Sciences"
+publication_short: "Life Sci"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Aims: This study analyzed in pithed rats the effect of several acute and prophylactic antimigraine drugs on the CGRPergic vasodepressor sensory outflow, in an attempt to investigate systemic cardiovascular effects in a model unrelated to migraine. Main methods: Male Wistar pithed rats were pretreated with continuous i.v. infusions of hexamethonium (2 μg/kg.min; to block autonomic outflow) and methoxamine (15-20 μg/kg.min; to maintain diastolic blood pressure at around 130 mmHg). Under these conditions, the effect of both electrical stimulation (0.56-5.6 Hz; 50 V and 2 ms) of the spinal cord (T9-T12) or i.v. bolus injections of exogenous α-CGRP (0.1-1 μg/kg) were studied in animals pretreated with continuous i.v. infusions of sumatriptan (1-100 μg/kg.min), ergotamine (0.18-0.56 μg/kg.min), dihydroergotamine (1-10 μg/kg.min), magnesium valproate (1000-1800 μg/kg.min), propranolol (100-300 μg/kg.min) or their respective vehicles. Key findings: Electrical stimulation of the spinal cord and i.v. bolus injections of exogenous α-CGRP resulted in, respectively, frequency- and dose-dependent decreases in diastolic blood pressure without affecting heart rate. Moreover, the infusions of sumatriptan, ergotamine and dihydroergotamine, but not of magnesium valproate, propranolol or their respective vehicles, dose-dependently inhibited the vasodepressor responses to electrical stimulation. In contrast, sumatriptan (10 μg/kg.min), ergotamine (0.31 μg/kg.min) and dihydroergotamine (3 μg/kg.min) failed to inhibit the vasodepressor responses to exogenous α-CGRP. Significance: The above findings suggest that the acute (rather than the prophylactic) antimigraine drugs attenuate the vasodepressor sensory outflow mainly by prejunctional mechanisms. This may be of particular relevance when considering potential cardiovascular adverse effects by acute antimigraine drugs."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
-tags:
-- Source Themes
-featured: false
+tags: []
+categories: []
+featured: False
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source: 'https://www.sciencedirect.com/science/article/pii/S0024320508004748'
+url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: False
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/projects/internal-project/index.md`.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- Neurovasc
+- Migraine
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -72,11 +67,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
