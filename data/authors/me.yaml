@@ -13,8 +13,7 @@ status:
   icon: "☕️"
 role: Research Scientist
 bio: |
-  Abimael González-Hernández is a Research Scientist at Instituto de Neurobiología, UNAM. Abimael is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Researcher leading projects on neurobiology and pharmacology of pain transmission.
 
 affiliations:
   - name: INb - UNAM
@@ -43,7 +42,7 @@ interests:
 education:
   - degree: PhD Neuropharmacology
     institution: Cinvestav - IPN
-    end: 2011-08-30
+    end: 2011
     summary: |
       Thesis on sensory prejunctional 5-HT1 receptor subtypes modulating CGRPergic transmission. Published 5 papers in European Journal of Pharmacology.
     button:
@@ -52,15 +51,15 @@ education:
       icon: hero/arrow-down-tray
   - degree: MSc 
     institution: Cinvestav - IPN
-    end: 2007-08-30
+    end: 2007
   - degree: BSc Chemist
     institution: ENCB - IPN
-    end: 2005-12-31
+    end: 2005
 
 experience:
   - role: Posdoctoral Researcher
     org: INb - UNAM
-    end: 2016-01-31
+    end: 2015
     summary: |
       Leading research on electrophysiological aspects of endogenous ligands inducing antinociception.
     button:
