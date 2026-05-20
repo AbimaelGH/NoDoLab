@@ -67,10 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-## <i class="fab fa-angellist"></i> This work is a part of the Doctoral Dissertation of 👉 [**Mohammed Gamal-Eltrabily**](https://www.researchgate.net/profile/Mohammed_Gamal-Eltrabily) 
-
-Below you can see a {{< hl >}}3D-rendering showing that PVN projections target GABAergic neurons that express OTR inside RAIC{{< /hl >}}. A 3D reconstruction of the confocal image presented in Figure 8B showing the relation between OTR-expressing cells (in blue), FR-labeled fibers (in red) and GABA-labeled neurons (in green) inside RAIC.
-{{< video src="Fig7-1.mp4" controls="yes" >}}
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">finally out! our paper about how oxytocin at cortical level recruit descending mechanisms inhibiting nociceptive input at spinal cord level 👉🏽 <a href="https://t.co/Ew0Qrlq3lY">https://t.co/Ew0Qrlq3lY</a></p>&mdash; Abimael GH (@AbimaelGH) <a href="https://twitter.com/AbimaelGH/status/1283473227738746880?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
