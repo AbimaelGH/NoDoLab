@@ -37,4 +37,4 @@ slides: Migraine
 
 In Brief
 
-Electrophysiological, pharmacological :pill:, molecular, anatomical and behavioral data suggest the presence of a new location of OT receptor–mediated antinociception in peripheral peptidergic fibers.
+Electrophysiological, pharmacological, molecular, anatomical and behavioral data suggest the presence of a new location of OT receptor–mediated antinociception in peripheral peptidergic fibers.
