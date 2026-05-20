@@ -58,7 +58,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "developer"
+    pack: "starter"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -68,7 +68,7 @@ hugoblox:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "sm"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "comfortable"
+    spacing: "compact"
     # Avatar shape in author profiles
     avatar_shape: rounded # circle | square | rounded
 
@@ -104,7 +104,7 @@ hugoblox:
     style: minimal # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: ""
+    text: "Nociception & Pain Lab"
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
