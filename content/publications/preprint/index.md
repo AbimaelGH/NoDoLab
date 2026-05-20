@@ -2,10 +2,10 @@
 title: "An example preprint / working paper"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2005-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2005-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
